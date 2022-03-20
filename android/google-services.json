@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "692469033900",
+    "project_id": "payapp-c0567",
+    "storage_bucket": "payapp-c0567.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692469033900:android:56ff92509947ec43336809",
+        "android_client_info": {
+          "package_name": "com.time.payapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692469033900-4nanlhegmp20j6p7re29b33jr4isc3i3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.time.payapp",
+            "certificate_hash": "4cc4cc816cec3288a84562e42190d0e85a6dc718"
+          }
+        },
+        {
+          "client_id": "692469033900-c6tbkavfp7m1p2jof7e8nb5hd2a70jn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Yi1V39rVYo3n3ltwDcG7odvDa7THyU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692469033900-c6tbkavfp7m1p2jof7e8nb5hd2a70jn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
